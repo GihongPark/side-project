@@ -1,1 +1,1 @@
-# SideProject
+#side-project
